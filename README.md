@@ -1,2 +1,2 @@
 # selenium_course
-This project includes tasks that I do during the course on the Stepik
+This project includes tasks that I am doing during the course on the Stepik
